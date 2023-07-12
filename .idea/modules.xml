@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Object-Detection_Yolo.iml" filepath="$PROJECT_DIR$/.idea/Object-Detection_Yolo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Object-Detection-Yolo.iml" filepath="$PROJECT_DIR$/.idea/Object-Detection-Yolo.iml" />
     </modules>
   </component>
 </project>
