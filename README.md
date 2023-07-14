@@ -40,7 +40,7 @@
     <a href="https://github.com/bllizzartt/Objection-Detection-Yolo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/bllizzartt/Objection-Detection-Yolo/Demos/webcam.mp4">View Demo</a>
+    <a href="https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Demos/webcam.mp4">View Demo</a>
     ·
     <a href="https://github.com/bllizzartt/Objection-Detection-Yolo/issues">Report Bug</a>
     ·
