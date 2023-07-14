@@ -8,7 +8,7 @@ This project is intended for people to learn object detection through the use of
 
 ## Content
 
-![Car-Counter](images/car-counter.png)
+![Car-Counter](/Users/chase/Documents/GitHub/Object-Detection-Yolo/images/car-counter.png)
 
 
 ## Getting Started
