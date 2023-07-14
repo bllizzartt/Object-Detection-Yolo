@@ -8,7 +8,7 @@ This project is intended for people to learn object detection through the use of
 
 ## Content
 
-![Car-Counter](car-counter.png)
+![Car-Counter](images/car-counter.png)
 
 
 ## Getting Started
@@ -25,8 +25,8 @@ This project is intended for people to learn object detection through the use of
 
 ### Executing program
 
-* How to run the program
-* Go to each Project or Chapter and right click and then run '(insert file here')
+* Open PyCharm
+* Go to each Project or Chapter and right click and then click run '(insert file here')
 
 ## Help
 
