@@ -149,6 +149,16 @@
 This project can be used to track objects real time via a webcam or img/mp4
 <br />
 I have preuploaded some images and videos, but upload your own and experiment with your own data
+<br />
+
+Here are some snippets of what you can do, enjoy!
+
+![Car Counter](/Users/chase/Documents/GitHub/Object-Detection-Yolo/images/car-counter.png)
+![People Counter](/Users/chase/Documents/GitHub/Object-Detection-Yolo/images/people-counter.png)
+![People Counter](/Users/chase/Documents/GitHub/Object-Detection-Yolo/Demos/webcam.mp4)
+\
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -159,6 +169,8 @@ I have preuploaded some images and videos, but upload your own and experiment wi
 
 - [x] Basic webcam/img/Video object recogntion
 - [ ] Object Detection with Yolo from https://universe.roboflow.com/
+- [ ] Chinese language integration for class tracking
+  - Example: #Person would be displayed as #人
 - [ ] More to come, tell me whatg else you would like to see!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -212,6 +224,10 @@ Project Link: [https://github.com/bllizzartt/Objection-Detection-Yolo](https://g
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Notes
+
+* Updated 7/14/23
+I am still working on this project, more updates coming soon!
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
