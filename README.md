@@ -37,7 +37,7 @@
   <p align="center">
     This project is a combination of projects that cover webcam, mp4, and img object detection training and tracking
     <br />
-    <a href="https://github.com/bllizzartt/Objection-Detection-Yolo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/bllizzartt/Object-Detection-Yolo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Demos/webcam.mp4">View Demo</a>
@@ -153,9 +153,9 @@ I have preuploaded some images and videos, but upload your own and experiment wi
 
 Here are some snippets of what you can do, enjoy!
 
-![Car Counter](/Users/chase/Documents/GitHub/Object-Detection-Yolo/images/car-counter.png)
-![People Counter](/Users/chase/Documents/GitHub/Object-Detection-Yolo/images/people-counter.png)
-![People Counter](/Users/chase/Documents/GitHub/Object-Detection-Yolo/Demos/webcam.mp4)
+![Car Counter](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/car-counter.png)
+![People Counter](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/people-counter.png)
+![Webcam](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Demos/webcam.mp4)
 
 
 
@@ -231,7 +231,7 @@ I am still working on this project, more updates coming soon!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-<!-- [contributors-shield]: https://img.shields.io/github/contributors/bllizzartt/Objection-Detection-Yolo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/bllizzartt/Objection-Detection-Yolo.svg?style=for-the-badge
 [contributors-url]: https://github.com/bllizzartt/Objection-Detection-Yolo/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/bllizzartt/Objection-Detection-Yolo.svg?style=for-the-badge
 [forks-url]: https://github.com/bllizzartt/Objection-Detection-Yolo/network/members
@@ -263,4 +263,4 @@ I am still working on this project, more updates coming soon!
 [Python.org]: https://img.shields.io/badge/python-616161?style=for-the-badge&logo=python&logoColor=yellow
 [Python-url]: https://python.org 
 [Pjreddie.org]: https://img.shields.io/badge/yolo-616161?style=for-the-badge&logo=yolo&logoColor=yellow
-[Pjreddie-url]: https://pjreddie.com/darknet/yolo/ -->
+[Pjreddie-url]: https://pjreddie.com/darknet/yolo/
