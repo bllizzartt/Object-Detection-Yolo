@@ -155,7 +155,7 @@ Here are some snippets of what you can do, enjoy!
 
 ![Car Counter](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/car-counter.png)
 ![People Counter](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/people-counter.png)
-[![Webcam](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Demos/webcam-real.mp4)](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Demos/webcam-real.mp4)
+[![Webcam](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/personpic.png)](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Demos/webcam-real.mp4)
 
 
 
