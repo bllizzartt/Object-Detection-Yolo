@@ -170,8 +170,8 @@ Here are some snippets of what you can do, enjoy!
 - [x] Basic webcam/img/Video object recogntion
 - [ ] Object Detection with Yolo from https://universe.roboflow.com/
 - [ ] Chinese language integration for class tracking
-  - Example: #Person would be displayed as #人
-- [ ] More to come, tell me whatg else you would like to see!
+  - Example: Person would be displayed as 人
+- [ ] More to come, tell me what else you would like to see!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
