@@ -83,7 +83,7 @@
 
 ![Main Picture](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/personpic.png)
 
-<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `bllizzartt`, `Objection-Detection-Yolo`, `twitter_handle`, `https://www.linkedin.com/in/chase-haynes/`, `gmail`, `chasecthaynes`, `Object Detection`, `project_description` -->
+<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `bllizzartt`, `Objection-Detection-Yolo`, `haynes2va`, `https://www.linkedin.com/in/chase-haynes/`, `gmail`, `chasecthaynes`, `Object Detection`, `project_description` -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,8 +101,8 @@
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-* [![Python][Python.org]][Python-url] -->
+* [![JQuery][JQuery.com]][JQuery-url] -->
+* [![Python][Python.org]][Python-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,8 +111,9 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-1. Start a new project 
-2. create it in a venv (virtual environment) 
+1. Open PyCharm
+2. Start a new project 
+3. Create it in a venv (virtual environment) with Python 3.8
 
 ### Prerequisites
 
@@ -141,27 +142,23 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This project can be used to track objects real time via a webcam or img/mp4
+<br />
+I have preuploaded some images and videos, but upload your own and experiment with your own data
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/bllizzartt/Objection-Detection-Yolo/issues) for a full list of proposed features (and known issues).
+- [x] Basic webcam/img/Video object recogntion
+- [ ] Object Detection with Yolo from https://universe.roboflow.com/
+- [ ] More to come, tell me whatg else you would like to see!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,7 +194,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - chasecthaynes@gmail.com
+Chase Haynes - [@haynes2va](https://twitter.com/haynes2va) - chasecthaynes@gmail.com
 
 Project Link: [https://github.com/bllizzartt/Objection-Detection-Yolo](https://github.com/bllizzartt/Objection-Detection-Yolo)
 
@@ -208,9 +205,9 @@ Project Link: [https://github.com/bllizzartt/Objection-Detection-Yolo](https://g
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Murtaza's Workshop](https://www.youtube.com/@murtazasworkshop)
+<!-- * []()
+* []() -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -247,3 +244,5 @@ Project Link: [https://github.com/bllizzartt/Objection-Detection-Yolo](https://g
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Python.com]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Python-url]: https://python.org 
