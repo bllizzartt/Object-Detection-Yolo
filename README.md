@@ -103,7 +103,7 @@
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url] -->
 * [![Python][Python.org]][Python-url]
-* [![Yolo][Yolo.com]][Yolo-url]
+* [![Yolo][Pjreddie.com]][Pjreddie-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -248,5 +248,5 @@ Project Link: [https://github.com/bllizzartt/Objection-Detection-Yolo](https://g
 [JQuery-url]: https://jquery.com 
 [Python.org]: https://img.shields.io/badge/python-616161?style=for-the-badge&logo=python&logoColor=yellow
 [Python-url]: https://python.org 
-[Yolo.org]: https://img.shields.io/badge/yolo-616161?style=for-the-badge&logo=yolo&logoColor=yellow
-[Yolo-url]: https://yolo.com 
+[Pjreddie.org]: https://img.shields.io/badge/yolo-616161?style=for-the-badge&logo=yolo&logoColor=yellow
+[Pjreddie-url]: https://pjreddie.com/darknet/yolo/
