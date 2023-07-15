@@ -102,12 +102,11 @@
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url] -->
-* [![Python][Python.org]][Python-url]
-* [![Yolo][Pjreddie.com]][Pjreddie-url]
+<!-- * [![Python][Python.org]][Python-url]
+* [![Yolo][Pjreddie.com]][Pjreddie-url] -->
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -217,7 +216,7 @@ Project Link: [https://github.com/bllizzartt/Objection-Detection-Yolo](https://g
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/bllizzartt/Objection-Detection-Yolo.svg?style=for-the-badge
+<!-- [contributors-shield]: https://img.shields.io/github/contributors/bllizzartt/Objection-Detection-Yolo.svg?style=for-the-badge
 [contributors-url]: https://github.com/bllizzartt/Objection-Detection-Yolo/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/bllizzartt/Objection-Detection-Yolo.svg?style=for-the-badge
 [forks-url]: https://github.com/bllizzartt/Objection-Detection-Yolo/network/members
@@ -249,4 +248,4 @@ Project Link: [https://github.com/bllizzartt/Objection-Detection-Yolo](https://g
 [Python.org]: https://img.shields.io/badge/python-616161?style=for-the-badge&logo=python&logoColor=yellow
 [Python-url]: https://python.org 
 [Pjreddie.org]: https://img.shields.io/badge/yolo-616161?style=for-the-badge&logo=yolo&logoColor=yellow
-[Pjreddie-url]: https://pjreddie.com/darknet/yolo/
+[Pjreddie-url]: https://pjreddie.com/darknet/yolo/ -->
