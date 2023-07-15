@@ -30,14 +30,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://github.com/bllizzartt/c-jam/blob/main/Images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/logo.png" alt="Logo" width="80" height="80">
 
-<h3 align="center">C Jam</h3>
+<h3 align="center">Object-Detection-Yolo</h3>
 
   <p align="center">
-    This project was a group collaboritive project involving the use of Unity, Arduino IDE, 3D printing, and Servo motors to create an interactive robot.
+   This project is a combination of projects that cover webcam, mp4, and img object detection training and tracking
     <br />
-    <a href="https://github.com/bllizzartt/c-jam"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/bllizzartt/Object-Detection-Yolo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Demos/webcam.mp4">View Demo</a>
@@ -81,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Main Picture]()
+![Main Picture](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/personpic.png)
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `bllizzartt`, `c-jam`, `haynes2va`, `https://www.linkedin.com/in/chase-haynes/`, `gmail`, `chasecthaynes`, `C Jam`, `project_description` -->
 
@@ -91,8 +91,8 @@
 
 ### Built With
 
-* Unity 
-* C++
+* Pyhton
+* Yolo
 
 <!-- * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -116,10 +116,9 @@ Here is how we created our project
 
 ### Prerequisites
 
-* Unity installed
-* Arduino IDE installed 
-* 4 servo motors
-* 4 3D printed servo sleeves
+1. Open PyCharm
+2. Start a new project
+3. Create it in a venv (virtual environment) with Python 3.8
 
 ### Installation
 
@@ -145,13 +144,16 @@ Here is how we created our project
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This project is for users to interact with our robot C Jam by interacting with it through Unity
+This project can be used to track objects real time via a webcam or img/mp4
 <br />
-Here is C Jam, Enjoy!
+I have preuploaded some images and videos, but upload your own and experiment with your own data
+<br />
 
-![Robot](insert url here)
-![Hardware](insert url here)
-[![Drone](insert url.jpg here)](insert url.mp4 here)
+Here are some snippets of what you can do, enjoy!
+
+![Car Counter](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/car-counter.png)
+![People Counter](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/people-counter.png)
+<!-- [![Live Webcam](insert url.jpg here)](insert url.mp4 here) -->
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -161,6 +163,10 @@ Here is C Jam, Enjoy!
 ## Roadmap
 
 - [x] Interactive movements with C Jam 
+- [ ]  Object Detection with Yolo from https://universe.roboflow.com/
+- [ ]  Chinese language integration for class tracking
+    - Example: Person would be displayed as 人
+- [ ]  More to come, tell me what else you would like to see!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,9 +212,7 @@ Project Link: [https://github.com/bllizzartt/c-jam](https://github.com/bllizzart
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [June Lee]()
-* [Mariana Holtz]()
-* [Aisha]()
+* [Murtaza's Workshop](https://www.youtube.com/@murtazasworkshop)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
