@@ -156,7 +156,6 @@ Here are some snippets of what you can do, enjoy!
 ![Car Counter](/Users/chase/Documents/GitHub/Object-Detection-Yolo/images/car-counter.png)
 ![People Counter](/Users/chase/Documents/GitHub/Object-Detection-Yolo/images/people-counter.png)
 ![People Counter](/Users/chase/Documents/GitHub/Object-Detection-Yolo/Demos/webcam.mp4)
-\
 
 
 
