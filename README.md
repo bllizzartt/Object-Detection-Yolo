@@ -212,7 +212,7 @@ Project Link: [https://github.com/bllizzartt/c-jam](https://github.com/bllizzart
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Murtaza's Workshop](https://www.youtube.com/@murtazasworkshop)
+* [Murtaza's Workshop]([https://www.youtube.com/@murtazasworkshop](https://www.youtube.com/watch?v=WgPbbWmnXJ8))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
